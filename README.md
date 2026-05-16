@@ -88,10 +88,10 @@ piscine.QuadB(5, 3)
 
 **Output:**
 
-```sh
-/---\\
+```terminal
+/---\
 |   |
-\\---/
+\---/
 ```
 
 **Use case:** Creates a diamond-like effect, useful for highlighting or decorative borders.
